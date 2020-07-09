@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
         body: SafeArea(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
+
               children: <Widget>[
                 CircleAvatar(
                   radius: 50.0,
